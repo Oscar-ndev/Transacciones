@@ -1,0 +1,25 @@
+# Java (Spring Boot)
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/*.iml
+**/.idea/
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+*.env
+
+# VS Code
+.vscode/
+
